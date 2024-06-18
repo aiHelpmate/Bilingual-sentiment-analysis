@@ -33,9 +33,10 @@ Dataset was combined from dailydialog, isear, and emotion-stimulus to create a b
 * Set LSTM model parameters, and conduct model training and testing.
 * Then you can perform sentiment analysis based on the translated text.
 
+
 ## Supplementary content
 
 If you want to start your research life by presenting a paper at a conference held by your school, you can use my essay "Cross-Lingual Sentiment Reasearch" as a reference. It will help you better understand the principles of machine translation and sentiment analysis based on comparative methods and mathematical principles, and understand both Seq2Seq and LSTM models.
 
-It should be noted that this essay only analyzes the positive and negative parts, this is just an example. If you think the code I've provided is instructive, you can look at other papers that analyze the five emotions for a comparative approach.
+It should be noted that this essay only analyzes the positive and negative parts, this is just an example.
 
