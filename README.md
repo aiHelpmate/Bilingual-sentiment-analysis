@@ -24,3 +24,14 @@ links: [dailydialog](http://yanran.li/dailydialog.html), [emotion-stimulus](http
 ##### Combined dataset
 
 Dataset was combined from dailydialog, isear, and emotion-stimulus to create a balanced dataset with 5 labels: joy, sad, anger, fear, and neutral. The texts mainly consist of short messages and dialog utterances.
+
+## Project process
+* Read the original data and parse the file, divide the Chinese and English contents into words, and filter the sentences with the specified number of words.
+* Define the LSTM model, add the Attention mechanism, and configure related parameters.
+* Define optimizer and loss function, configure test parameters, input sentences for translation.
+* Define the sentiment analysis model and analyze according to the translated text.
+
+## Supplementary content
+
+
+
