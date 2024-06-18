@@ -38,5 +38,5 @@ Dataset was combined from dailydialog, isear, and emotion-stimulus to create a b
 
 If you want to start your research life by presenting a paper at a conference held by your school, you can use my essay "Cross-Lingual Sentiment Reasearch" as a reference. It will help you better understand the principles of machine translation and sentiment analysis based on comparative methods and mathematical principles, and understand both Seq2Seq and LSTM models.
 
-It should be pointed out that only the positive and negative parts are analyzed in this essay, and enough data is collected so that higher accuracy can be obtained.
+This project is a kind of revision direction of the essay. It should be pointed out that only the positive and negative parts are analyzed in this essay, and enough data is collected so that higher accuracy can be obtained.
 
