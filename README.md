@@ -29,7 +29,9 @@ Dataset was combined from dailydialog, isear, and emotion-stimulus to create a b
 * Read the original data and parse the file, divide the Chinese and English contents into words, and filter the sentences with the specified number of words.
 * Define the LSTM model, add the Attention mechanism, and configure related parameters.
 * Define optimizer and loss function, configure test parameters, input sentences for translation.
-* Define the sentiment analysis model and analyze according to the translated text.
+* Read emotional corpus and comment on word vectorization.
+* Set LSTM model parameters, and conduct model training and testing
+* Then you can perform sentiment analysis based on the translated text.
 
 ## Supplementary content
 
